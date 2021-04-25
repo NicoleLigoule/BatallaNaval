@@ -1,0 +1,193 @@
+# depslib dependency file v1.0
+1605549458 source:c:\users\valen\documents\batallanaval1611\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"functions.h"
+	"rlutil.h"
+
+1605551591 c:\users\valen\documents\batallanaval1611\functions.h
+	"rlutil.h"
+
+1605503028 c:\users\valen\documents\batallanaval1611\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1605564776 source:c:\users\valen\documents\fichateestahermosuraahre\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"functions.h"
+	"rlutil.h"
+
+1605565428 c:\users\valen\documents\fichateestahermosuraahre\functions.h
+	"rlutil.h"
+
+1605503028 c:\users\valen\documents\fichateestahermosuraahre\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1605567229 source:c:\users\nicole\desktop\elfinal\elfinal\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"functions.h"
+	"rlutil.h"
+
+1605568005 c:\users\nicole\desktop\elfinal\elfinal\functions.h
+	"rlutil.h"
+
+1605566172 c:\users\nicole\desktop\elfinal\elfinal\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1605567229 source:c:\users\nicole\desktop\batallanaval\batallanaval\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"functions.h"
+	"rlutil.h"
+
+1605568005 c:\users\nicole\desktop\batallanaval\batallanaval\functions.h
+	"rlutil.h"
+
+1605566172 c:\users\nicole\desktop\batallanaval\batallanaval\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1607944511 source:c:\users\valen\documents\batallanaval\batallanaval\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"functions.h"
+	"rlutil.h"
+
+1608322533 c:\users\valen\documents\batallanaval\batallanaval\functions.h
+	"rlutil.h"
+
+1605566174 c:\users\valen\documents\batallanaval\batallanaval\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1608443011 source:c:\users\nicole\desktop\batallanaval_arreglosboludos\batallanaval\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"functions.h"
+	"rlutil.h"
+
+1608446624 c:\users\nicole\desktop\batallanaval_arreglosboludos\batallanaval\functions.h
+	"rlutil.h"
+
+1608440913 c:\users\nicole\desktop\batallanaval_arreglosboludos\batallanaval\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1608486865 source:c:\users\nicole\desktop\batallanaval_version3\batallanaval\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"functions.h"
+	"rlutil.h"
+
+1608491884 c:\users\nicole\desktop\batallanaval_version3\batallanaval\functions.h
+	"rlutil.h"
+
+1608486865 c:\users\nicole\desktop\batallanaval_version3\batallanaval\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1608532834 source:c:\users\nicole\desktop\batallanaval_uversion\batallanaval\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"functions.h"
+	"rlutil.h"
+
+1608533311 c:\users\nicole\desktop\batallanaval_uversion\batallanaval\functions.h
+	"rlutil.h"
+
+1608486865 c:\users\nicole\desktop\batallanaval_uversion\batallanaval\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
