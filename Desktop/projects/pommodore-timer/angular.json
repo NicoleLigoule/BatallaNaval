@@ -29,8 +29,15 @@
               "src/favicon.ico",
               "src/assets"
             ],
+            "stylePreprocessorOptions": {
+              "includePaths": [
+                "src/app/clock" 
+              ]
+            },
+
             "styles": [
-              "src/styles.scss"
+             "src/styles.scss",
+             "src/app/clock/clock.component.scss"
             ],
             "scripts": []
           },
@@ -100,5 +107,8 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "80f69d96-5fc5-4da1-b93c-00c8aa7dd90f"
   }
 }
